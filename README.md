@@ -1,28 +1,28 @@
-(Student Attendance System)
+## (Student Attendance System)
 
 --
 
 ## Project Description:
 
-| This project is a simple Student Attendance System developed collaboratively using GitHub. The project demonstrates the use of repositories, branches, commits, pull requests, and merge operations. |
+- This project is a simple Student Attendance System developed collaboratively using GitHub. The project demonstrates the use of repositories, branches, commits, pull requests, and merge operations. 
 
 --
 
 ## Team Members and Roles:
 
-| Name |	                                 | Role |
-| Seyyedeh Sedigheh Hasheminezhad	         Student Registration Module |
-| Tarannom Toupchinezhad 	                 Attendance Tracking Module  |
-| Aida Tadris Hasani	                     Attendance Reporting Module |
+- Name 	                                   - Role
+- Seyyedeh Sedigheh Hasheminezhad	         - Student Registration Module 
+- Tarannom Toupchinezhad 	                 - Attendance Tracking Module  
+- Aida Tadris Hasani	                     - Attendance Reporting Module 
 
 --
 
 ## Branches:
 
-| Name |	                                 | Branch |
-| Seyyedeh Sedigheh Hasheminezhad	         feature/student-registration |
-| Tarannom Toupchinezhad	                 feature/attendance-tracking  |
-| Aida Tadris Hasani	                     feature/attendance-reporting |
+- Name 	                                   - Branch 
+- Seyyedeh Sedigheh Hasheminezhad	         - feature/student-registration 
+- Tarannom Toupchinezhad	                 - feature/attendance-tracking  
+- Aida Tadris Hasani	                     - feature/attendance-reporting 
 
 --
 
