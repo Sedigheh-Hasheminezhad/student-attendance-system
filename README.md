@@ -1,4 +1,4 @@
-## (Student Attendance System)
+## "Student Attendance System"
 
 Student Attendance Management System
 
