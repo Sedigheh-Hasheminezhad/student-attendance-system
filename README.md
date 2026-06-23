@@ -19,7 +19,8 @@ This project is a simple Student Attendance System developed collaboratively usi
 
 ## Branches
 
-- Name 	                                   → Branch 
+  Name 	                                   → Branch
+__________________________________________________________________________ 
 - Seyyedeh Sedigheh Hasheminezhad	         → feature/student-registration 
 - Tarannom Toupchinezhad	                 → feature/attendance-tracking  
 - Aida Tadris Hasani	                     → feature/attendance-reporting 
