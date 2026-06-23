@@ -32,7 +32,6 @@ This project is a simple Student Attendance System developed collaboratively usi
 ## Team Contributions
 
 Each member must add their own section below.
- feature/student-registration
 
 ### Seyedeh Sedigheh Hasheminezhad
 
@@ -42,5 +41,3 @@ Each member must add their own section below.
 - Commit Hash: 5c4a560
 
 ---
-
- main
