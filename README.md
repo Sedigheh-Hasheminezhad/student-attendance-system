@@ -1,5 +1,7 @@
 ## (Student Attendance System)
 
+Student Attendance Management System
+
 --
 
 ## Project Description
@@ -10,9 +12,10 @@ This project is a simple Student Attendance System developed collaboratively usi
 
 ## Team Members and Roles
 
-- Name 	                                    → Role
-- Seyyedeh Sedigheh Hasheminezhad	          → Student Registration Module 
-- Tarannom Toupchinezhad 	                  → Attendance Tracking Module  
+  Name 	                                    → Role
+  
+- Seyedeh Sedigheh Hasheminezhad	          → Student Registration Module 
+- Tarannom Toopchinezhad 	                  → Attendance Tracking Module  
 - Aida Tadris Hasani	                      → Attendance Reporting Module 
 
 --
@@ -20,9 +23,9 @@ This project is a simple Student Attendance System developed collaboratively usi
 ## Branches
 
   Name 	                                   → Branch
-__________________________________________________________________________ 
-- Seyyedeh Sedigheh Hasheminezhad	         → feature/student-registration 
-- Tarannom Toupchinezhad	                 → feature/attendance-tracking  
+  
+- Seyedeh Sedigheh Hasheminezhad	         → feature/student-registration 
+- Tarannom Toopchinezhad	                 → feature/attendance-tracking  
 - Aida Tadris Hasani	                     → feature/attendance-reporting 
 
 --
@@ -30,7 +33,7 @@ __________________________________________________________________________
 ## Tasks Completed
 
 
-| Seyyedeh Sedigheh Hasheminezhad |
+| Seyedeh Sedigheh Hasheminezhad |
 
 - Role: Student Registration Module
 - Branch: feature/student-registration
@@ -38,7 +41,7 @@ __________________________________________________________________________
 - Commit Hash: 5c4a560
 
 
-| Tarannom Toupchinezhad |
+| Tarannom Toopchinezhad |
 
 - Role: Attendance Tracking Module
 - Branch: feature/attendance-tracking
@@ -57,7 +60,7 @@ __________________________________________________________________________
 
 ## GitHub Workflow
 
-- 1.Repository was created by Seyyedeh Sedigheh Hasheminezhad.
+- 1.Repository was created by Seyedeh Sedigheh Hasheminezhad.
 - 2.Team members cloned the repository.
 - 3.Each member worked on a separate branch.
 - 4.Changes were committed and pushed to GitHub.
