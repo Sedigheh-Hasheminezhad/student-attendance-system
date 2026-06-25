@@ -33,6 +33,8 @@ This project is a simple Student Attendance System developed collaboratively usi
 
 Each member must add their own section below.
 
+---
+
 ### Tarannom Toopchinezhad
 
 - Role: Attendance Tracking Module
