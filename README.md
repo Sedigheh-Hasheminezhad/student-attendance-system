@@ -33,7 +33,6 @@ This project is a simple Student Attendance System developed collaboratively usi
 
 Each member must add their own section below.
 
-
 ### Tarannom Toopchinezhad
 
 - Role: Attendance Tracking Module
@@ -41,7 +40,15 @@ Each member must add their own section below.
 - Description: Implemented attendance tracking functionality for students.
 - Commit Hash: 2bfaf92
 
-
-
 ---
  
+### Aida Tadris Hasani
+
+- Role: Attendance Reporting Module
+- Branch: feature/attendance-reporting
+- Description: Implemented attendance reporting and summary functionality.
+- Commit Hash: d1471d7
+
+---
+
+| The End |
