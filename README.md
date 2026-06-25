@@ -32,3 +32,16 @@ This project is a simple Student Attendance System developed collaboratively usi
 ## Team Contributions
 
 Each member must add their own section below.
+
+### Aida Tadris Hasani
+
+- Role: Attendance Reporting Module
+- Branch: feature/attendance-reporting
+- Description: Implemented attendance reporting and summary functionality.
+- Commit Hash: d1471d7
+
+---
+
+| The End |
+
+
