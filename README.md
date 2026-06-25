@@ -33,6 +33,15 @@ This project is a simple Student Attendance System developed collaboratively usi
 
 Each member must add their own section below.
 
+### Seyedeh Sedigheh Hasheminezhad
+
+- Role: Student Registration Module
+- Branch: feature/student-registration
+- Description: Implemented the student registration functionality and managed the main repository.
+- Commit Hash: 5c4a560
+
+---
+
 ### Tarannom Toopchinezhad
 
 - Role: Attendance Tracking Module
