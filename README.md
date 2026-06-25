@@ -39,3 +39,6 @@ Each member must add their own section below.
 - Branch: feature/attendance-reporting
 - Description: Implemented attendance reporting and summary functionality.
 - Commit Hash: d1471d7
+
+- ---
+| The End |
