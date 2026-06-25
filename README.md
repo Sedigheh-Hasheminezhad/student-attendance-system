@@ -41,3 +41,23 @@ Each member must add their own section below.
 - Commit Hash: 5c4a560
 
 ---
+
+### Tarannom Toopchinezhad
+
+- Role: Attendance Tracking Module
+- Branch: feature/attendance-tracking
+- Description: Implemented attendance tracking functionality for students.
+- Commit Hash: 2bfaf92
+
+---
+ 
+### Aida Tadris Hasani
+
+- Role: Attendance Reporting Module
+- Branch: feature/attendance-reporting
+- Description: Implemented attendance reporting and summary functionality.
+- Commit Hash: d1471d7
+
+---
+
+| The End |
